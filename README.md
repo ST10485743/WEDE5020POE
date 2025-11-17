@@ -7,11 +7,11 @@ A small business by the name of Nexus has approached us to make a website that c
 
 **Website goals and objectives**
 
-1.To further spread the popularity of Nexus.
-2.Making it easier for customers to buy the clothes online because some of them can't manage to go to the physical store.
-3.To make the website represent the core beliefs and values of Nexus.
-4.Informing the customer with the history of Nexus, what Nexus is about and who founded Nexus.
-5.Providing an opprtunity for customers who antisocial to obtain clothes that are the defination of being free.
+1. To further spread the popularity of Nexus.
+2. Making it easier for customers to buy the clothes online because some of them can't manage to go to the physical store.
+3. To make the website represent the core beliefs and values of Nexus.
+4. Informing the customer with the history of Nexus, what Nexus is about and who founded Nexus.
+5. Providing an opprtunity for customers who antisocial to obtain clothes that are the defination of being free.
 
 **Key Features and Functionality**
 
