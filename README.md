@@ -58,9 +58,9 @@ A small business by the name of Nexus has approached us to make a website that c
 9.Added a message box on the enquires form and added a reset button next to the submit button in case the user makes a mistake.
 
 **Improvements and Refinements**
-1.Complete Revamp of the website to fit a more professional and modern image.
-2.Better form validation via Javascript.
-3.Website more responsive to different screen sizes.
-4.CSS global reset for better compatability and responsiveness with other browsers.
-5.Images are now showed in a info-card rather a table
-6.Added product previews oh Homepage.
+1. Complete Revamp of the website to fit a more professional and modern image.
+2. Better form validation via Javascript.
+3. Website more responsive to different screen sizes.
+4. CSS global reset for better compatability and responsiveness with other browsers.
+5. Images are now showed in a info-card rather a table
+6. Added product previews oh Homepage.
