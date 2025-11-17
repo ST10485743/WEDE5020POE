@@ -1,0 +1,218 @@
+/* =========================================================
+   Modernized styles.css
+   Updated for responsiveness, readability, and accessibility
+   ========================================================= */
+
+/* CSS VARIABLES */
+:root {
+  --primary-color: #050709;
+  --secondary-color: #f4f4f4;
+  --accent-color: #ff9800;
+  --text-color: #333;
+  --light-text: #fff;
+  --font-main: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  --font-alt: 'Lucida Sans', Geneva, Verdana, sans-serif;
+  --spacing-sm: 0.5rem;
+  --spacing-md: 1rem;
+  --spacing-lg: 2rem;
+}
+
+/* GLOBAL RESETS */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-main);
+  color: var(--text-color);
+  background-color: var(--secondary-color);
+  line-height: 1.6;
+}
+
+/* NAVIGATION */
+nav {
+  background-color: var(--primary-color);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--spacing-md) var(--spacing-lg);
+}
+
+nav img {
+  height: 50px;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  gap: var(--spacing-md);
+}
+
+nav ul li a {
+  color: var(--light-text);
+  text-decoration: none;
+  font-weight: 600;
+  transition: color 0.3s ease;
+}
+
+nav ul li a:hover,
+nav ul li a:focus {
+  color: var(--accent-color);
+}
+
+/* HERO / HEADER SECTIONS */
+header {
+  text-align: center;
+  padding: var(--spacing-lg);
+  background-color: var(--light-text);
+}
+
+header h1 {
+  font-size: 2rem;
+  margin-bottom: var(--spacing-md);
+}
+
+/* MAIN CONTENT */
+main {
+  padding: var(--spacing-lg);
+}
+
+section {
+  margin-bottom: var(--spacing-lg);
+}
+
+/* IMAGES */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+/* FORMS */
+form {
+  background-color: var(--light-text);
+  padding: var(--spacing-lg);
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+form label {
+  display: block;
+  margin-bottom: var(--spacing-sm);
+  font-weight: 600;
+}
+
+form input,
+form textarea {
+  width: 100%;
+  padding: var(--spacing-sm);
+  margin-bottom: var(--spacing-md);
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+form button {
+  background-color: var(--primary-color);
+  color: var(--light-text);
+  border: none;
+  padding: var(--spacing-md) var(--spacing-lg);
+  cursor: pointer;
+  font-size: 1rem;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+form button:hover {
+  background-color: var(--accent-color);
+}
+
+/* PRODUCTS GRID */
+.products {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: var(--spacing-lg);
+}
+
+.product-item {
+  background: var(--light-text);
+  padding: var(--spacing-md);
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.product-item img {
+  border-radius: 6px;
+  margin-bottom: var(--spacing-md);
+}
+
+/* RESPONSIVENESS */
+@media (max-width: 768px) {
+  nav ul {
+    flex-direction: column;
+    gap: var(--spacing-sm);
+  }
+
+  header h1 {
+    font-size: 1.6rem;
+  }
+
+  form {
+    padding: var(--spacing-md);
+  }
+
+  .products {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* FOOTER */
+footer {
+  background-color: var(--primary-color);
+  color: var(--light-text);
+  text-align: center;
+  padding: var(--spacing-md);
+  margin-top: var(--spacing-lg);
+}
+/* Form error styles */
+.error {
+  border: 2px solid #d9534f; /* red-ish */
+  box-shadow: 0 0 0 3px rgba(217,83,79,0.08);
+}
+.input-error-message {
+  color: #d9534f;
+  font-size: 0.9rem;
+  margin-top: 4px;
+}
+
+/* Lightbox styles */
+.lightbox-overlay {
+  position: fixed;
+  inset: 0; /* top:0; right:0; bottom:0; left:0; */
+  background: rgba(0, 0, 0, 0.85);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+  padding: 2rem;
+}
+.lightbox-container {
+  max-width: 95%;
+  max-height: 95%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.lightbox-popup {
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: 8px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.6);
+}
+
+/* Prevent body scroll when open */
+.lightbox-open {
+  overflow: hidden;
+}
