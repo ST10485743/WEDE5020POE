@@ -16,7 +16,7 @@ A small business by the name of Nexus has approached us to make a website that c
 **Key Features and Functionality**
 
 1. **Use of SEO Tags:**
- Using header tags to show the navigation bar and the logo. Using the footer tag to show the trademark of the business and the copyright. The main tag was used to identify the primary content of each webpage. The nav was used to show the naviagtion links, these links were used to link the webpages together. The form tag was used to show the form where the user will fill-in their details or to enquire about the products of the business. The table tag was used to show the names of the founders and their pictures. The label tag was used describe the captions in the forms, the input was also used so that the user can enter their details and the textarea was used so that the user can enter the message they want to write. The ul and li tag were used to put the product list in bullet point form and to describe how the clothes look like. The div tag was used to divide different sections of information. The img src tag was used to display images on some of the webpages. The br helps to break apart content and other tags, this separates links and other content from being on the same line. The p tag was used to write the contant that will be showed on the website.
+ Using header tags to show the navigation bar and the logo. Using the footer tag to show the trademark of the business and the copyright. The main tag was used to identify the primary content of each webpage. The nav was used to show the naviagtion links, these links were used to link the webpages together. The form tag was used to show the form where the user will fill-in their details or to enquire about the products of the business. The table tag was used to show the names of the founders and their pictures. The label tag was used describe the captions in the forms, the input was also used so that the user can enter their details and the textarea was used so that the user can enter the message they want to write. The ul and li tag were used to put the product list in bullet point form and to describe how the clothes look like. The div tag was used to divide different sections of information. The img src tag was used to display images on some of the webpages. The br tag helps to break apart content and other tags, this separates links and other content from being on the same line. The p tag was used to write the contant that will be showed on the website.
 
 2. **Navigation Bar:**
  By using the this helps to link the webpages and it also counts as the navigation bar of the website.The makes it easier for the user to understand which links directs them to which page.
@@ -44,6 +44,9 @@ A small business by the name of Nexus has approached us to make a website that c
 3. **Products Page:** it must have a detailed explanation of the products, how they look like and how much do they cost.
 4. **Enquiry Page:** This page should have an a form for users to enquire about the business.
 5. **Contact Us:** This page should feature the contact information of the business, the contact form for users to fill-in and the locations of the business.
+6. **CSS stylesheet:** This file contains the styling of the website, the global reset which allows the website to be responsive on different sized screens and allows the website to work optimally across different browsers.
+7. **JavaScript:** This file allows for the form validation of the forms within the website this also allows for a lightbox gallery to be added to the website.
+
 
 **Changelog**
 
@@ -52,10 +55,10 @@ A small business by the name of Nexus has approached us to make a website that c
 3. Added lightbox gallery.
 4. New javascript file added.
 5. Changed image container from a table to a info card.
-6.Changed the Hero Image into a brief introduction text.
-7.Added a logo in front of the naviagtion bar on each webpage.
-8.Error handling for forms validation
-9.Added a message box on the enquires form and added a reset button next to the submit button in case the user makes a mistake.
+6. Changed the Hero Image into a brief introduction text.
+7. Added a logo in front of the naviagtion bar on each webpage.
+8. Error handling for forms validation
+9. Added a message box on the enquires form and added a reset button next to the submit button in case the user makes a mistake.
 
 **Improvements and Refinements**
 1. Complete Revamp of the website to fit a more professional and modern image.
@@ -64,6 +67,7 @@ A small business by the name of Nexus has approached us to make a website that c
 4. CSS global reset for better compatability and responsiveness with other browsers.
 5. Images are now showed in a info-card rather a table
 6. Added product previews oh Homepage.
+7. Exit lightbox gallery via the escape button.
 
 # Reference List
  Benjamin Voros, 2017. close shot of person denim top. [electronic print]. Available at:< Close shot of person denim top photo – Free Food Image on Unsplash> [Accessed 28 October 2025]
