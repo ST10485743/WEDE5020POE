@@ -23,8 +23,16 @@ A small business by the name of Nexus has approached us to make a website that c
 
 3. **Forms:**
  These forms are for the user to enter their details and to enquire about products that are being sold.
+
 4. **Use of different browsers:**
  This enables the developer to test whether their website works on any browser with no issues.
+
+5. **Lightbox Gallery:** 
+This feature allows the user to click on the image, and the clicked image will be enlarged and show up as a close-up.
+
+6. **Form Validation:**
+Via JavaScript, the forms can validate any information the user inputs. Error handling such as incorrect information and empty boxes an error message will pop-up to tell the user to enter the correct information or to fill in the empty boxes.
+
 
 **Timelines and Milestones** 
 ~Day 1-4: Start with base coding of the website, run and test the code.
