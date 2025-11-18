@@ -64,3 +64,16 @@ A small business by the name of Nexus has approached us to make a website that c
 4. CSS global reset for better compatability and responsiveness with other browsers.
 5. Images are now showed in a info-card rather a table
 6. Added product previews oh Homepage.
+
+Reference List
+Benjamin Voros, 2017. close shot of person denim top. [electronic print]. Available at:< Close shot of person denim top photo – Free Food Image on Unsplash> [Accessed 28 October 2025]
+Brock Wegner,2021. Woman in blue t-shirt holding baby in white and red onesie. [electronic print]. Available at:< Woman in blue t-shirt holding baby in white and red onesie photo – Free Fashion Image on Unsplash> [Accessed 20 August 2025]
+Faith & Yarn, 2020. black crew neck t-shirt. [electronic print]. Available at:< Black crew neck t-shirt photo – Free Fashion Image on Unsplash> [Accessed 28 October 2025]
+Filip Rankovic Grobgaard, 2022. A man with a beard. [electronic print]. Available at:< A man with a beard photo – Free Portrait Image on Unsplash> [Accessed 20 August 2025]
+Haryo Setyadi,2020. White Crew neck t-shirt. [electronic print]. Available at: <White crew neck t-shirt photo – Free Fashion Image on Unsplash> [Accessed 20 August 2025]
+Himanshu Dewangan, 2019. man in gray and black checkered sport shirt and black pants outfit. [electronic print]. Available at:< Man in gray and black checkered sport shirt and black pants outfit photo – Free Model Image on Unsplash> [Accessed 28 October 2025]
+Himanshu Dewangan,2025. A beautiful young woman poses for the camera. [electronic print]. Available at:< A beautiful young woman poses for the camera. photo – Free Sexy girl Image on Unsplash> [Accessed 20 August 2025]
+Mediamodifier,2021. white zip up jacket hanging on brown wooden clothes hanger. [electronic print]. Available at :< White zip up jacket hanging on brown wooden clothes hanger photo – Free Fashion Image on Unsplash> [Accessed 20 August 2025]
+Napat Saeng, 2019. woman standing near open door. [electronic print]. Available at: <Woman standing near open door photo – Free Fashion Image on Unsplash> [Accessed 20 August 2025]
+Redicul Pict, 2023. a woman wearing a green hoodie with a butterfly on it. [electronic print]. Available at:< A woman wearing a green hoodie with a butterfly on it photo – Free Sexy Image on Unsplash> [Accessed 28 October 2025]
+
