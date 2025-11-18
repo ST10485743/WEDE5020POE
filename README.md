@@ -5,6 +5,7 @@
 **ST Number: ST10485743**
 
 **Project Overview**
+
 A small business by the name of Nexus has approached us to make a website that can help to further spread the popularity of their brand and be able to reach more of the youth in South Africa. The aim of this project was to create a budget friendly website that will showcase the personality of Nexus also with the hope of attracting more customers aside from the youth that will Nexus to reach the top of the fashion scene and leave a mark in South African Fashion.
 
 **Website goals and objectives**
