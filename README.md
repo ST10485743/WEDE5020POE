@@ -35,12 +35,17 @@ Via JavaScript, the forms can validate any information the user inputs. Error ha
 
 
 **Timelines and Milestones** 
-~Day 1-4: Start with base coding of the website, run and test the code.
-~Day 5-7: Continue testing and debug the code in case of errors. 
-~Day 8-10: Get a user to test the website. Get opinion and try to make changes to the User Interface 
-~Day 11-13: Implement the changes and then allow the user to test it again. 
-~Day 14-16: Advertise the release date of the website and write the name of the website. 
-~Day 17-18: After successful publicity launch the website.
+~ Day 1-4: Start with base coding of the website, run and test the code.
+
+~ Day 5-7: Continue testing and debug the code in case of errors. 
+
+~ Day 8-10: Get a user to test the website. Get opinion and try to make changes to the User Interface 
+
+~ Day 11-13: Implement the changes and then allow the user to test it again. 
+
+~ Day 14-16: Advertise the release date of the website and write the name of the website. 
+
+~ Day 17-18: After successful publicity launch the website.
 
 **SUMMATIVE POE DETAILS:**
  In Part 1, two proposals were supposed to be written, if they are appproved then we can start to code the website using html in Visual Studio Code. Setting up the basic structure of the website using html:5. For Part 2, a CSS stylesheet was added to improve the overall look and feel of the website and to allow the website to more responsive regardless of what device or browser the user is using. For Part 3, JavaScript was added, the javascript allows for form validation also a lightbox gallery was added; the lightbox allows the user to click the image and see the enlarged version of the image. If the user wants to exit from the image they must click the escape button. With further work and additions, this webiste now has five webpages that are: the Homepage, the About Us, Contact Us, Enquire page and products page. A CSS stylesheet and a JavaScript file.
